@@ -1,6 +1,4 @@
 <?php 
-
-
 if(isset($_REQUEST['entrar'])){ //Si le he pulsado
     if(isset($_REQUEST["guardar_clave"])){
  
